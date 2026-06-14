@@ -1,0 +1,15 @@
+# 内部メモ（公開しない）
+進捗記録.md
+画像差し替えガイド.md
+
+# 画像のバックアップ・元データ（公開不要・容量削減）
+images/_source/
+images/_oldcrop/
+images/_oldcrop_*
+
+# CSSバックアップ
+*.bak
+
+# OS生成ファイル
+.DS_Store
+**/.DS_Store
